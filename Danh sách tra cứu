@@ -1,0 +1,125 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class Person {
+protected:
+    int ID;
+    string name;
+    int age;
+
+public:
+    Person() {
+        ID = 0;
+        name = "";
+        age = 0;
+    }
+
+    Person(int _ID, string _name, int _age) {
+        ID = _ID;
+        name = _name;
+        age = _age;
+    }
+
+    void display() {
+        cout << "ID: " << ID << endl;
+        cout << "Name: " << name << endl;
+        cout << "Age: " << age << endl;
+    }
+
+    int getID() {
+        return ID;
+    }
+};
+
+class Teacher : public Person {
+private:
+    string subject;
+    string className;
+
+public:
+    Teacher() : Person() {
+        subject = "";
+        className = "";
+    }
+
+    Teacher(int _ID, string _name, int _age, string _subject, string _className)
+        : Person(_ID, _name, _age) {
+        subject = _subject;
+        className = _className;
+    }
+
+    void display() {
+        Person::display();
+        cout << "Subject: " << subject << endl;
+        cout << "Class Name: " << className << endl;
+        cout << "------------------------" << endl;
+    }
+};
+
+int main() {
+    int n;
+    cout << "Nhap so luong giao vien: ";
+    cin >> n;
+    cin.ignore();
+
+    Teacher* teachers = new Teacher[n];
+
+    for (int i = 0; i < n; i++) {
+        int ID, age;
+        string name, subject, className;
+
+        cout << "Nhap thong tin chi tiet cho giao vien " << i + 1 << ":" << endl;
+        cout << "Nhap ID: ";
+        cin >> ID;
+        cin.ignore();
+
+        cout << "Nhap ten: ";
+        getline(cin, name);
+
+        cout << "Nhap tuoi: ";
+        cin >> age;
+        cin.ignore();
+
+        cout << "Nhap mon: ";
+        getline(cin, subject);
+
+        cout << "Nhap ten lop: ";
+        getline(cin, className);
+
+        teachers[i] = Teacher(ID, name, age, subject, className);
+    }
+
+    cout << "\nDanh sach giao vien:\n" << endl;
+    for (int i = 0; i < n; i++) {
+        teachers[i].display();
+    }
+
+    // Tìm kiếm giáo viên theo ID
+    int searchID;
+    cout << "\nNhap ID cua giao vien ma ban muon tim: ";
+    cin >> searchID;
+
+    bool found = false;
+    for (int i = 0; i < n; i++) {
+        if (teachers[i].getID() == searchID)
+
+        {
+            cout << "\nGiao vien tim thay:\n" << endl;
+            teachers[i].display();
+            found = true;
+            break;
+        }
+
+    }
+
+    if (!found)
+
+    {
+        cout << "\nKhong tim thay giao vien cua ID " << searchID << endl;
+    }
+
+    delete[] teachers;
+
+    return 0;
+}
