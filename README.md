@@ -95,6 +95,8 @@
 | Project | Tech | Link |
 |---|---|---|
 | 🐘 Big Data Pipeline | Docker · Impala · Airflow · Hive · Power BI | [View Repo](https://github.com/WooCSSIN/Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue) |
+| 🎓 EDUVN | Web · Education Platform | [View Repo](https://github.com/WooCSSIN/EDUVN) |
+| 🖥️ Project-ITS | IT Services · System | [View Repo](https://github.com/WooCSSIN/Project-ITS) |
 
 </div>
 
