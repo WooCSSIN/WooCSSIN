@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-> 🔄 Snake animation sẽ hiển thị sau khi bật GitHub Actions (xem hướng dẫn bên dưới)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
