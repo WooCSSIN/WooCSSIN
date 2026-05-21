@@ -54,14 +54,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WooCSSIN&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WooCSSIN&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -81,7 +82,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/WooCSSIN/WooCSSIN/blob/output/github-contribution-grid-snake-dark.svg)
+> 🔄 Snake animation sẽ hiển thị sau khi bật GitHub Actions (xem hướng dẫn bên dưới)
 
 </div>
 
@@ -91,7 +92,9 @@
 
 <div align="center">
 
-[![Big Data Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=WooCSSIN&repo=Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue&theme=tokyonight&hide_border=true)](https://github.com/WooCSSIN/Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue)
+| Project | Tech | Link |
+|---|---|---|
+| 🐘 Big Data Pipeline | Docker · Impala · Airflow · Hive · Power BI | [View Repo](https://github.com/WooCSSIN/Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue) |
 
 </div>
 
