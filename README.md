@@ -66,17 +66,15 @@
 
 </div>
 
-<!-- Tạm ẩn phần Trophy vì server của tác giả đang bị sập (Vercel 402 Payment Required)
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WooCSSIN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
+<img src=".github/assets/trophy.svg" alt="GitHub Trophies" width="100%" />
 
 </div>
--->
 
 ---
 
