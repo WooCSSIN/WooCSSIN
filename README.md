@@ -18,12 +18,12 @@ Hi there! I'm **Vũ Hà Nhật Nguyên** (WooCSSIN) 👋
 
 I am a passionate **Data Engineer & AI Developer** focused on building scalable data pipelines, predictive machine learning models, and high-performance real-time systems. I recently worked as a **Data Intern at MB Bank**, where I gained hands-on experience in enterprise data processing, ETL workflows, and business intelligence.
 
-- 🎓 **Education:** Pursuing a Bachelor's in **Management Information Systems** at University of Transport HCMC (Expected 2027).
-- 💼 **Experience:** Enterprise data processing and analytics at **MB Bank**.
-- 🔭 **Current Focus:** Developing real-time AI systems (YOLOv8, OpenVINO, TensorRT) and robust Data Warehouses (Hadoop, Impala, Airflow).
-- 🌱 **Learning:** Deepening my knowledge in **Spark**, **Kafka**, and **Cloud Architectures (AWS/GCP)**.
-- 🎯 **Interests:** Big Data Pipelines, MLOps, and Full-Stack System Design.
-- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%C3%A0-nh%E1%BA%ADt-nguy%C3%AAn-a34845320/) | vuhnn6145@gmail.com
+-  **Education:** Pursuing a Bachelor's in **Management Information Systems** at University of Transport HCMC (Expected 2027).
+-  **Experience:** Enterprise data processing and analytics at **MB Bank**.
+-  **Current Focus:** Developing real-time AI systems (YOLOv8, OpenVINO, TensorRT) and robust Data Warehouses (Hadoop, Impala, Airflow).
+-  **Learning:** Deepening my knowledge in **Spark**, **Kafka**, and **Cloud Architectures (AWS/GCP)**.
+-  **Interests:** Big Data Pipelines, MLOps, and Full-Stack System Design.
+-  **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%C3%A0-nh%E1%BA%ADt-nguy%C3%AAn-a34845320/) | vuhnn6145@gmail.com
 
 ---
 
@@ -113,9 +113,9 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 
 | Project | Tech | Link |
 |---|---|---|
-| 🐘 Big Data Pipeline | Docker · Impala · Airflow · Hive · Power BI | [View Repo](https://github.com/WooCSSIN/Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue) |
-| 🎓 EDUVN | Web · Education Platform | [View Repo](https://github.com/WooCSSIN/EDUVN) |
-| 🖥️ Project-ITS | IT Services · System | [View Repo](https://github.com/WooCSSIN/Project-ITS) |
+|  Big Data Pipeline | Docker · Impala · Airflow · Hive · Power BI | [View Repo](https://github.com/WooCSSIN/Building-a-Platform-for-Processing-and-Analyzing-Big-Data-Using-Hadoop-Impala-and-Hue) |
+|  EDUVN | Web · Education Platform | [View Repo](https://github.com/WooCSSIN/EDUVN) |
+|  Project-ITS | IT Services · System | [View Repo](https://github.com/WooCSSIN/Project-ITS) |
 
 </div>
 
