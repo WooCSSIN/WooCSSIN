@@ -90,12 +90,25 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WooCSSIN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+![Stars](https://img.shields.io/github/stars/WooCSSIN?style=for-the-badge&logo=github&color=667eea&labelColor=1a1b27&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=764ba2&labelColor=1a1b27&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/WooCSSIN)
+![Followers](https://img.shields.io/github/followers/WooCSSIN?style=for-the-badge&logo=github&color=667eea&labelColor=1a1b27&label=Followers)
+![Joined](https://img.shields.io/badge/Joined-2023-764ba2?style=for-the-badge&logo=github&labelColor=1a1b27)
 
 </div>
+
+<div align="center">
+
+| 🥇 Commits | 🔀 Pull Requests | 🐛 Issues | 📦 Repositories |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/500%2B-Commits-667eea?style=flat-square&logo=git) | ![](https://img.shields.io/badge/Active-PRs-764ba2?style=flat-square&logo=github) | ![](https://img.shields.io/badge/Open-Issues-667eea?style=flat-square&logo=github) | ![](https://img.shields.io/badge/10%2B-Repos-764ba2?style=flat-square&logo=github) |
+
+</div>
+
 
 
 ---
