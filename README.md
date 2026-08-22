@@ -13,7 +13,6 @@
 ---
 
 ## 🙋‍♂️ About Me
-
 Hi there! I'm **Vũ Hà Nhật Nguyên** (WooCSSIN) 👋
 
 I am a passionate **Data Engineer & AI Developer** focused on building scalable data pipelines, predictive machine learning models, and high-performance real-time systems. I recently worked as a **Data Intern at MB Bank**, where I gained hands-on experience in enterprise data processing, ETL workflows, and business intelligence.
@@ -28,7 +27,6 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Languages
@@ -70,12 +68,11 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WooCSSIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooCSSIN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -88,17 +85,15 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src=".github/assets/trophy.svg" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=WooCSSIN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -108,7 +103,6 @@ I am a passionate **Data Engineer & AI Developer** focused on building scalable 
 ---
 
 ## 📌 Featured Projects
-
 <div align="center">
 
 | Project | Tech | Link |
